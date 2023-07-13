@@ -1,1 +1,4 @@
 zzzz
+testingVoidMethod (){
+    print('ZZZzzzz');
+}
